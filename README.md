@@ -4,7 +4,7 @@ This is a repo with a bunch of example codes used in content I posted online.
 Directory:
 # Laravel Backpack making Telescope usable in production.
 - Folder: laravel-backpack-telescope-production
-- Blog:  
+- Blog: https://celegens.medium.com/making-laravel-telescope-work-with-backpack-authentication-9e58508f5df4
 
 
 # Extra Info 
