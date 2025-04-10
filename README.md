@@ -6,3 +6,9 @@ Directory:
 - Folder: laravel-backpack-telescope-production
 - Blog: 
 - Video: 
+
+
+#Extra Info 
+My own company: www.celegens.com
+My public software: www.afspraakplanning.com
+For inquiries please send a mail to info@celegens.com
